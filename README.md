@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Nishkarsh76/Nishkarsh76/blob/main/github-header-image-2.png)
+![MasterHead](https://github.com/Nishkarsh76/Nishkarsh76/blob/main/github-header-image-2.png)
 <h3 align="center">Data is the fuel of the digital economy, and I am passionate about leveraging it to create value and insights for businesses and society.</h3>
 <img align="left" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
